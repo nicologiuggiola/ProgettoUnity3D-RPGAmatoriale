@@ -8,6 +8,6 @@ Nel progetto è stato testato il ciclo giorno\notte, la comunicazione dei danni 
 dalla contadina.)
 Esistono Bug\meccaniche indesiderate:
 1: errore nella luce notturna, errore sconosciuto non presente nella build.
-2: generatore di perosnaggi e meccanica sprint incomplete, ma completate nel progetto di prossima pubblicazione (16\11 pomeriggio)
+2: generatore di perosnaggi e meccanica sprint incomplete, ma completate nel progetto di prossima pubblicazione
 3: meccanica di inventario incompleta
 
