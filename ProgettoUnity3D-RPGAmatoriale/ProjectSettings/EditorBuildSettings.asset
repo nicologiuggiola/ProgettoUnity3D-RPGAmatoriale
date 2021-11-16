@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 7fc852ef3d92a55439ae4417a00c8329
+  - enabled: 1
+    path: Assets/Scenes/Lore.unity
+    guid: 12b0ea76493df5d449d60743798aef9b
+  - enabled: 1
+    path: Assets/Scenes/CharCreation.unity
+    guid: 8fb3b8d4ad270b043b7fb2ae11d5e1a4
+  - enabled: 1
+    path: Assets/Scenes/Test Level.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Quest Giver Scene.unity
+    guid: b82f647ce3d19334b85737bd8e07f8f9
+  m_configObjects: {}

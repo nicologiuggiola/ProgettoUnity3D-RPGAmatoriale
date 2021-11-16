@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd5bd34524cc34943a587cb22f01ce8d, type: 3}
+  m_Name: Amethyst
+  m_EditorClassIdentifier: 
+  prefeb: {fileID: 4716208051323899056, guid: 1f44de77a04fedc448e24ca1113ec624, type: 3}
+  type: 3
+  description: MOOLAH! $$$

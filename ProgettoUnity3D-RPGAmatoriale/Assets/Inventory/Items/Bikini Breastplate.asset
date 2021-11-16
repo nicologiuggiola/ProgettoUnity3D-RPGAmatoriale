@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0099a850c10e70144bdaf30c8cf7a90c, type: 3}
+  m_Name: Bikini Breastplate
+  m_EditorClassIdentifier: 
+  prefeb: {fileID: 4914214362770907016, guid: f98a523fcf03bfd47b1c54609538900a, type: 3}
+  type: 0
+  description: 
+  armor: 12
+  maxDmg: 0
+  minDmg: 0
+  forza: 0
+  accuratezza: 0
+  costituzione: 0
+  intelligenza: 0
+  fede: 0
+  volonta: 0
+  vita: 10
+  mana: 0
